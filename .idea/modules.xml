@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ShopToy/ShopToy.iml" filepath="$PROJECT_DIR$/../ShopToy/ShopToy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UserValidate/UserValidate.iml" filepath="$PROJECT_DIR$/../UserValidate/UserValidate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springJpaCustomerProvince.iml" filepath="$PROJECT_DIR$/springJpaCustomerProvince.iml" />
+    </modules>
+  </component>
+</project>
